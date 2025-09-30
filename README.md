@@ -1,13 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <style>
-  p {
-      background-color: blue;
-      color: white;
-      padding: 10px;
-    }
-  </style>
 <title>Sikkim Game</title>
 </head>
 <body>
