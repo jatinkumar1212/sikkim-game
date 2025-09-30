@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <style>
-   h, p {
+  p {
       background-color: blue;
       color: white;
       padding: 10px;
